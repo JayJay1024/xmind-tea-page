@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/xmind-tea-page/precache-manifest.d828cce8e143634c6f97240375db7a9f.js"
+  "/xmind-tea-page/precache-manifest.df03ccd4e5c19a3a7f3119fabaf76d74.js"
 );
 
 self.addEventListener('message', (event) => {
