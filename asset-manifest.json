@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/xmind-tea-page/static/css/main.1e26622f.chunk.css",
+    "main.js": "/xmind-tea-page/static/js/main.14a20794.chunk.js",
+    "main.js.map": "/xmind-tea-page/static/js/main.14a20794.chunk.js.map",
+    "runtime-main.js": "/xmind-tea-page/static/js/runtime-main.0410f3e0.js",
+    "runtime-main.js.map": "/xmind-tea-page/static/js/runtime-main.0410f3e0.js.map",
+    "static/css/2.5eed6506.chunk.css": "/xmind-tea-page/static/css/2.5eed6506.chunk.css",
+    "static/js/2.f4c4b90d.chunk.js": "/xmind-tea-page/static/js/2.f4c4b90d.chunk.js",
+    "static/js/2.f4c4b90d.chunk.js.map": "/xmind-tea-page/static/js/2.f4c4b90d.chunk.js.map",
+    "index.html": "/xmind-tea-page/index.html",
+    "precache-manifest.d828cce8e143634c6f97240375db7a9f.js": "/xmind-tea-page/precache-manifest.d828cce8e143634c6f97240375db7a9f.js",
+    "service-worker.js": "/xmind-tea-page/service-worker.js",
+    "static/css/2.5eed6506.chunk.css.map": "/xmind-tea-page/static/css/2.5eed6506.chunk.css.map",
+    "static/css/main.1e26622f.chunk.css.map": "/xmind-tea-page/static/css/main.1e26622f.chunk.css.map",
+    "static/js/2.f4c4b90d.chunk.js.LICENSE.txt": "/xmind-tea-page/static/js/2.f4c4b90d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0410f3e0.js",
+    "static/css/2.5eed6506.chunk.css",
+    "static/js/2.f4c4b90d.chunk.js",
+    "static/css/main.1e26622f.chunk.css",
+    "static/js/main.14a20794.chunk.js"
+  ]
+}
